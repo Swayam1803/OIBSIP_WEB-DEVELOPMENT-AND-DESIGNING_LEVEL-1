@@ -7,7 +7,7 @@ The portfolio showcases my skills, projects, and basic personal details in a pro
 Technologies Used
 HTML  
 CSS  
-avaScript  
+  
 
 Features
 Responsive design for all devices
@@ -23,3 +23,4 @@ Better structuring of content using HTML and CSS
 
 Conclusion
 This project helped me learn how to present my skills and projects effectively through a personal website.
+
